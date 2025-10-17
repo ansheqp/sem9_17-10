@@ -1,0 +1,10 @@
+C:\Users\UPN\Desktop\ansh_ing\Ejer1_sem9\bin\Debug\Ejer1_sem9.exe.config
+C:\Users\UPN\Desktop\ansh_ing\Ejer1_sem9\bin\Debug\Ejer1_sem9.exe
+C:\Users\UPN\Desktop\ansh_ing\Ejer1_sem9\bin\Debug\Ejer1_sem9.pdb
+C:\Users\UPN\Desktop\ansh_ing\Ejer1_sem9\bin\Debug\Biblioteca.dll
+C:\Users\UPN\Desktop\ansh_ing\Ejer1_sem9\bin\Debug\Biblioteca.pdb
+C:\Users\UPN\Desktop\ansh_ing\Ejer1_sem9\obj\Debug\Ejer1_sem9.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\ansh_ing\Ejer1_sem9\obj\Debug\Ejer1_sem9.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\ansh_ing\Ejer1_sem9\obj\Debug\Ejer1_sem9.csproj.Up2Date
+C:\Users\UPN\Desktop\ansh_ing\Ejer1_sem9\obj\Debug\Ejer1_sem9.exe
+C:\Users\UPN\Desktop\ansh_ing\Ejer1_sem9\obj\Debug\Ejer1_sem9.pdb
